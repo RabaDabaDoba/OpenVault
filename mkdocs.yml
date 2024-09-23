@@ -24,6 +24,12 @@ theme:
 
 # Extensions
 markdown_extensions:
+  # Callouts convertion
+  - nl2br
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # Old
   - footnotes
   # - attr_list
   - pymdownx.arithmatex:
@@ -50,6 +56,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - callouts
   - roamlinks
   - blog
   - rss:
