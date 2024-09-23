@@ -2,8 +2,9 @@
 type: note
 aliases: 
 created: 2024-09-23 13:35
-modified: 2024-09-23 15:25
+modified: 2024-09-23 15:10
 title: index
+draft: true
 ---
 
 # What is OpenVault?
