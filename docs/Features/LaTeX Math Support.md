@@ -1,3 +1,8 @@
+---
+title: LaTeX Math Support
+created: 2024-09-23 13:09
+modified: 2024-09-23 13:53
+---
 # LaTeX Math Support
 
 LaTeX math is supported using MathJax.

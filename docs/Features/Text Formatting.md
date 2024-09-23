@@ -1,3 +1,8 @@
+---
+title: Text Formatting
+created: 2024-09-23 13:09
+modified: 2024-09-23 13:59
+---
 # Text Formatting 
 
 You can have lists like this
