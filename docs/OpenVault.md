@@ -2,7 +2,7 @@
 type: note
 aliases: 
 created: 2024-09-23 13:35
-modified: 2024-09-23 15:12
+modified: 2024-09-23 15:28
 title: OpenVault
 ---
 
@@ -31,3 +31,8 @@ This is a test
     An admonition block for MkDocs.
     Allowing you to edit your notes
     with confidence using Obsidian.
+
+
+```ad-abstract
+this is a test
+```
