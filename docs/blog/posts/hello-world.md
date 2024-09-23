@@ -1,5 +1,5 @@
 ---
-draft: true 
+draft: false 
 date: 2023-01-31 
 slug: hello-world
 categories:
@@ -8,6 +8,9 @@ categories:
 tags:
   - template
   - how-to
+title: hello-world
+created: 2024-09-23 13:09
+modified: 2024-09-23 13:44
 ---
 
 
