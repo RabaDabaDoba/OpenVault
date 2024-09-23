@@ -2,7 +2,7 @@
 type: note
 aliases: 
 created: 2024-09-23 13:35
-modified: 2024-09-23 15:51
+modified: 2024-09-23 15:12
 title: OpenVault
 ---
 
@@ -21,7 +21,13 @@ test hahaha
 This is a test
 ```
 
-[Asset](this is a test asset)
+[asset test](Asset Test.md)
 
-![[Asset Test]]
 
+
+## Test
+
+!!! info "Title"
+    An admonition block for MkDocs.
+    Allowing you to edit your notes
+    with confidence using Obsidian.
