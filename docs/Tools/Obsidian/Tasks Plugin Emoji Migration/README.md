@@ -1,7 +1,7 @@
 ---
 title: README
 created: 2025-01-08 15:16
-modified: 2025-01-08 15:09
+modified: 2025-01-08 15:01
 type: wiki
 ---
 # Obsidian Task Emoji to Dataview Migration Script
@@ -47,17 +47,15 @@ This repository contains a Bash script that automates the migration of task form
 
 1. Clone this repository.
 2. Place the script in your system.
-3. Edit the script and replace `/path/to/your/vault` with the path to your Obsidian vault.
+3. Edit the script and replace `/path/to/your/vault` with the path to your Obsidian vault, or any specific folder within your vault.
 4. Make the script executable:
-```bash
-   chmod +x migrate_tasks.sh
-```
-
-Run the script:
-
-```bash
-./migrate_tasks.sh
-```
+	```bash title="Bash"
+	chmod +x migrate_tasks.sh
+	```
+5. Run the script:
+	```bash title="Bash"
+	./migrate_tasks.sh
+	```
 
 ## Notes
 Ensure you have a backup of your vault before running this script.
